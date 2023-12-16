@@ -1,0 +1,12 @@
+[package]
+name = "ds210fp"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+petgraph = "0.6.0"
+csv = "1.1.6"
+serde = "1.0.136"
+rustworkx-core = "0.13.2"
